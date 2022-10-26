@@ -1,0 +1,48 @@
+Linear Regression:
+https://www.youtube.com/watch?v=J_LnPL3Qg70 (Nice)
+
+Multivariate Linear Regression:
+https://www.youtube.com/watch?v=X4lHwv6gSBI
+
+
+PCA:
+https://www.youtube.com/watch?v=n7npKX5zIWI
+
+PCA step by step:
+https://www.youtube.com/watch?v=osgqQy9Hr8s (Nice explanation: Code start at 14:50)
+
+https://www.youtube.com/watch?v=uFbDWu0tDrE (Good)
+
+https://www.youtube.com/watch?v=8klqIM9UvAc&t=432s (Nice example)
+https://github.com/codebasics/py/blob/master/ML/18_PCA/PCA_tutorial_digits.ipynb
+https://github.com/codebasics/py/blob/master/ML/18_PCA/pca_exercise.md
+
+- In practice: 10 steps
+	Transform the data if needed (argue why which transformation is needed)
+	Center the data (non-central PCA is weird)
+	Scale the data if needed (argue why scaling is needed)
+	Calculate the covariance matrix
+	Eigen decomposition of covariance matrix
+	Make a scree plot of eigenvalues (and reflect on the result)
+	Project/rotate the data (calculate the 'scores')
+	Plot the scores (if possible/needed add the eigenvectors generating a 'biplot')
+	Determine if factor analysis is to be performed
+		- Rotate selected components
+		- Project data on rotated components
+		- Plot scores (and rotated components)
+	Interpret
+
+
+Factor Analysis:
+https://www.youtube.com/watch?v=jRjeC9Bre8M
+https://www.youtube.com/watch?v=ttBs_wfw_6U
+https://www.youtube.com/watch?v=YIrtMu5Qlac
+
+https://www.youtube.com/watch?v=fI51h6_PDvU Good: (After time 12:56)
+
+------------------------------------------
+MDS + MLR + PCA: Martin
+PLSR + MLR : Rients
+PCA + MLR + MDS: Steve
+
+Excel : D : Analysis-Reflectance_and_Transmission_Spec_Measurement
